@@ -1,7 +1,7 @@
 # Hi there, I'm Saksham Kapil! 👋
 
 ### 👨‍💻 About Me
-I am a passionate Computer Science Engineering student at **Chandigarh Engineering College (CGC), Landran**[cite: 4]. [cite_start]I specialize in building functional web applications and am dedicated to mastering full-stack development and cloud operations[cite: 7, 10].
+I am a passionate Computer Science Engineering student at **Chandigarh Engineering College (CGC), Landran**. I specialize in building functional web applications and am dedicated to mastering full-stack development and cloud operations.
 
 - 🎓 **Education:** B.Tech in Computer Science and Engineering (2022 - 2026) 
 - 🔭 **Current Focus:** Full Stack Development and Advanced Java & Data Structures. 
@@ -18,7 +18,8 @@ I am a passionate Computer Science Engineering student at **Chandigarh Engineeri
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Tools & Cloud:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ! [Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 ---
 
@@ -33,11 +34,16 @@ Check out my key projects and live work:
 
 ---
 ### 📊 GitHub Activity
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sakshamkapil1244&show_icons=true&theme=dark" alt="Saksham's Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=sakshamkapil1244&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Saksham's GitHub Stats" />
+
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamkapil1244&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamkapil1244&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamkapil1244&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 ---
 
